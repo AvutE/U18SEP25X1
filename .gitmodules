@@ -7,3 +7,6 @@
 [submodule "theme/crakjie"]
 	path = theme/crakjie
 	url = https://github.com/crakjie/hugo-base-theme.git
+[submodule "themes/crakjie"]
+	path = themes/crakjie
+	url = https://github.com/crakjie/hugo-base-theme.git
