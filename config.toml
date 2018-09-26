@@ -1,15 +1,18 @@
 baseURL = "https://eloquent-gates-16ab6c.netlify.com/"
 languageCode = "en-us"
-title = "About me"
+title = "The Eggman site"
 theme = "crakjie"
 
 [params]
-  description = "I <3 making web sites"
+  description = "Dr Eggman and me has lots in common..."
   mainIcon = "img/Dr_Eggman.png"
 
 [[params.social]]
-    title = "github"
+    title = "GitHub"
     url = "https://github.com/AvutE"
+[[params.social]]
+    title = "About me"
+    url = "/posts/this-is-me"
 [[params.social]]
     title = "linkedin"
     url = "https://www.linkedin.com/in/tuva-e-8b5bb5133/"
