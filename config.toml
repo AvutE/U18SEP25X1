@@ -4,15 +4,12 @@ title = "About me"
 theme = "crakjie"
 
 [params]
-  description = "I <3 making web site"
-  mainIcon = "/img/hugo.png"
+  description = "I <3 making web sites"
+  mainIcon = "Dr_Eggman.jpg"
 
 [[params.social]]
-    title = "twitter"
-    url = "https://twitter.com/SBootstrap"
-[[params.social]]
     title = "github"
-    url = "https://github.com/IronSummitMedia/startbootstrap"
+    url = "https://github.com/AvutE"
 [[params.social]]
     title = "linkedin"
-    url = ""
+    url = "https://www.linkedin.com/in/tuva-e-8b5bb5133/"
