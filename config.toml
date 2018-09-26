@@ -5,7 +5,7 @@ theme = "crakjie"
 
 [params]
   description = "I <3 making web sites"
-  mainIcon = "Dr_Eggman.jpg"
+  mainIcon = "Dr_Eggman.png"
 
 [[params.social]]
     title = "github"
