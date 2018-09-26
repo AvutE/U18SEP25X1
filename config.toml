@@ -4,7 +4,7 @@ title = "The Eggman site"
 theme = "crakjie"
 
 [params]
-  description = "Dr Eggman and me has lots in common..."
+  description = "Dr Eggman and I have lots in common..."
   mainIcon = "img/Dr_Eggman.png"
 
 [[params.social]]
